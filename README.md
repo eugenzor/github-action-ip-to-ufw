@@ -9,5 +9,5 @@ crontab -e
 
 Add the line
 ```
-*   *   *   *   *   /root/github-action-ip-to-ufw/github-action-ip-to-ufw.sh
+0   0   *   *   *   /root/github-action-ip-to-ufw/github-action-ip-to-ufw.sh
 ```
